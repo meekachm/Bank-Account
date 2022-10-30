@@ -1,2 +1,2 @@
 # Bank-Account
-C++ School project: bank account
+C++ school project: bank account
